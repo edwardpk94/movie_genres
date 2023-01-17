@@ -4,9 +4,9 @@ Objective: create a full-stack machine learning model, including dataset selecti
 
 Milestones:
 - ~Identify dataset and task~ **(predict movie genres given title)**
-- Clean/preprocess data in a notebook
-- Train/test model(s) in a notebook
-- Convert preprocessing code to *.py module(s)
-- Create flask API
+- ~Clean/preprocess data in a notebook~
+- ~Train/test model(s) in a notebook~
+- ~Convert preprocessing code to *.py module(s)~
+- ~Create flask API~
 - Dockerize API
 - Deploy API (AWS/Heroku)
